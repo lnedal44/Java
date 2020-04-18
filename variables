@@ -1,0 +1,7 @@
+Class newVariable {
+
+int x = 23;
+String str1 = "Nedal";
+
+
+}
